@@ -100,10 +100,15 @@ This project is **open-source** and available under the **MIT License**.
 Frontend Developer & Photographer
 
 ## 🎥 Preview
-
-![Business Website Demo](QR.png)
-![Business Website Demo](QR.png)
-![Business Website Demo](QR.png)
-![Business Website Demo](QR.png)
-![Business Website Demo](QR.png)
-![Business Website Demo](QR.png)
+### Home
+![Business Website Demo](Preview/H.png)
+### About
+![Business Website Demo](Preview/A.png)
+### About Timeline Journey
+![Business Website Demo](Preview/AB.png)
+### Services
+![Business Website Demo](Preview/S.png)
+### Contact
+![Business Website Demo](Preview/C.png)
+### Footer Design
+![Business Website Demo](Preview/F.png)
